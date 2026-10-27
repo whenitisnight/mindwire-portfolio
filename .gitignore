@@ -1,0 +1,12 @@
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.log
+.runtime/
+node_modules/
+dist/
+Thumbs.db
+.DS_Store
